@@ -1,0 +1,5 @@
+config USB_PORT_POWER_MANAGEMENT
+	tristate "Usb Port Power Management"
+	depends on USB_SUPPORT
+	help
+		Usb Port Power Management

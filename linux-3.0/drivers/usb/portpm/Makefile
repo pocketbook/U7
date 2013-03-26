@@ -1,0 +1,2 @@
+obj-$(CONFIG_USB_PORT_POWER_MANAGEMENT)		+= portpm.o
+
